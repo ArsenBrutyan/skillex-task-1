@@ -14,7 +14,7 @@ A high-performance product listing and filtering application built with **React*
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ArsenBrutyan/skillex-task-1.git
    cd skillex-task-1
 
    ```
